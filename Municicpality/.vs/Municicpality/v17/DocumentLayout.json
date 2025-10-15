@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Municicpality\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\home\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\home\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\models\\eventsearchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:models\\eventsearchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\services\\eventmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:services\\eventmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\controllers\\issuereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:controllers\\issuereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\home\\announcements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\home\\announcements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\services\\issuereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:services\\issuereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\models\\issuereportlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:models\\issuereportlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\models\\isuuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:models\\isuuereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|c:\\users\\user\\source\\repos\\municicpality\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D5D74B-B253-47FD-89CE-278B50111CF8}|Municicpality.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-15T01:00:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventSearchHistory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Models\\EventSearchHistory.cs",
+              "RelativeDocumentMoniker": "Models\\EventSearchHistory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Models\\EventSearchHistory.cs",
+              "RelativeToolTip": "Models\\EventSearchHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:41:51.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAAK4BAAAAAAAAAAAswBICAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T23:41:28.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAswK0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T23:07:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Views\\Events\\Details.cshtml",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T23:07:23.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Services\\EventManagementService.cs",
+              "RelativeDocumentMoniker": "Services\\EventManagementService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Services\\EventManagementService.cs",
+              "RelativeToolTip": "Services\\EventManagementService.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAcwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T22:15:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIUUAAAAAAAAAAAgwJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-14T22:14:23.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T20:50:44.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Status.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Status.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Status.cshtml",
+              "RelativeToolTip": "Views\\Home\\Status.cshtml",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAADkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T20:35:26.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAADABAAAAAAAAAAAAAEABAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T18:40:56.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:42:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-15T00:54:25.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Announcements.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Announcements.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Announcements.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Home\\Announcements.cshtml",
+              "RelativeToolTip": "Views\\Home\\Announcements.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T20:35:16.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IssueReportService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Services\\IssueReportService.cs",
+              "RelativeDocumentMoniker": "Services\\IssueReportService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Services\\IssueReportService.cs",
+              "RelativeToolTip": "Services\\IssueReportService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA+wBcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:38:26.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IsuueReport.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Models\\IsuueReport.cs",
+              "RelativeDocumentMoniker": "Models\\IsuueReport.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Models\\IsuueReport.cs",
+              "RelativeToolTip": "Models\\IsuueReport.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wA4AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:38:13.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssueReportLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Models\\IssueReportLinkedList.cs",
+              "RelativeDocumentMoniker": "Models\\IssueReportLinkedList.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Models\\IssueReportLinkedList.cs",
+              "RelativeToolTip": "Models\\IssueReportLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:37:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:34:42.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IssueReportController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Controllers\\IssueReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssueReportController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Controllers\\IssueReportController.cs",
+              "RelativeToolTip": "Controllers\\IssueReportController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAADsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:36:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:37:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Municicpality\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T20:35:40.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
